@@ -2,15 +2,6 @@
 
 Bem-vindo ao projeto **Restaurante do Moa**, um site fictício de um restaurante elegante, desenvolvido com HTML, CSS e Bootstrap. Este projeto apresenta uma interface de usuário responsiva com navegação suave e recursos interativos para proporcionar uma excelente experiência ao usuário.
 
-## Índice
-
-- [Visão Geral](#visão-geral)
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Estrutura de Arquivos](#estrutura-de-arquivos)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Visão Geral
 
